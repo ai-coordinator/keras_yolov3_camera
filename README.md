@@ -2,6 +2,7 @@
 リアルタイム物体検出
 
 以下のソースをベースにカスタマイズしています。
+
 https://github.com/qqwweee/keras-yolo3
 
 yolo_video.py
