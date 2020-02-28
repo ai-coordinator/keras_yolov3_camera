@@ -6,4 +6,5 @@ https://github.com/qqwweee/keras-yolo3
 
 yolo_video.py
 yolo.py
+
 上記2つを上書きして使用してください。
