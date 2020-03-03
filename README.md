@@ -9,3 +9,6 @@ yolo_video.py
 yolo.py
 
 上記2つを上書きして使用してください。
+
+詳細説明はこちら
+https://ai-coordinator.jp/io-data-usb-hdmi
